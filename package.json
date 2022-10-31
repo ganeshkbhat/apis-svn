@@ -13,13 +13,20 @@
     "require": "./index.js",
     "import": "./index.mjs"
   },
-  "dependencies": {},
   "devDependencies": {
     "chai": "^4.3.6",
     "mocha": "^10.0.0",
     "sinon": "^14.0.0",
     "unimported": "^1.22.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshkbhat/apis-svn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ganeshkbhat/apis-svn/issues"
+  },
+  "homepage": "https://github.com/ganeshkbhat/apis-svn#readme",
   "author": "Ganesh",
   "license": "MIT"
 }
