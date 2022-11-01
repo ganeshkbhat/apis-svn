@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "chai": "^4.3.6",
-    "concurrency.js": "^0.0.1",
+    "concurrency.js": "^0.0.2",
     "fssys": "^1.0.1",
     "get-imported": "^0.0.5",
     "hasher-apis": "^0.0.1",
